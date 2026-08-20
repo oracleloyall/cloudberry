@@ -208,6 +208,8 @@ test: plancache limit copy2 temp domain rangefuncs prepare conversion truncate a
 # test: plpgsql returning with
 
 
+test: gp_foreign_data
+
 # ----------
 # Another group of parallel tests
 # ----------
